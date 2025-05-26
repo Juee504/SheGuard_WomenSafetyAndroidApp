@@ -80,3 +80,5 @@ Tokens → Device tokens for FCM
 
 📈 Impact
 SheGuard aims to reduce the delay in emergency response and provide peace of mind to women. It’s more than just an app — it’s a silent, always-ready companion.
+
+------------FOR FULL PROJECT MESSAGE ON LINKEDIN------------------
