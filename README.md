@@ -81,4 +81,6 @@ Tokens → Device tokens for FCM
 📈 Impact
 SheGuard aims to reduce the delay in emergency response and provide peace of mind to women. It’s more than just an app — it’s a silent, always-ready companion.
 
+Use Android Studio Version Meerkat 2024.3.1
+
 ------------FOR FULL PROJECT MESSAGE ON LINKEDIN------------------
