@@ -86,3 +86,6 @@ Use Android Studio Version Meerkat 2024.3.1
 Project report available.
 
 ------------FOR FULL PROJECT AND REPORT MESSAGE ON LINKEDIN------------------
+
+![about](https://github.com/user-attachments/assets/69e557b4-99f1-4b3f-a525-091ae9045597)
+
