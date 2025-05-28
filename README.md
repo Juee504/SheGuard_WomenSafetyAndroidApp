@@ -83,4 +83,6 @@ SheGuard aims to reduce the delay in emergency response and provide peace of min
 
 Use Android Studio Version Meerkat 2024.3.1
 
-------------FOR FULL PROJECT MESSAGE ON LINKEDIN------------------
+Project report available.
+
+------------FOR FULL PROJECT AND REPORT MESSAGE ON LINKEDIN------------------
